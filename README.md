@@ -19,3 +19,4 @@ Text mode supports repeating scroll text for all your lore, pop-culture referenc
 - Clean up the codebase and abstract it
 - Make Text Mode and Animation Mode more easily switchable
 - Create a library of animations for the baseline Matrix
+- Document the hardware + software build
