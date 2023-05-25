@@ -49,7 +49,8 @@ Craft your own 8x8 pixel movie animations with the help of the [Matrix Editor](h
 
 ## Todo list
 
-- [ ] Add video of the Matrix in action
+- [ ] Add videos/pictures of the Matrix in action
+- [ ] Added /lib; need to add support for Circup and list the libraries being used (with why for each)
 - [ ] Add 3D file for the case of The Matrix
 
 ## Coming Soon
@@ -58,7 +59,7 @@ Keep an eye on [Supervillains.wtf](https://www.supervillains.wtf/) for when The 
 
 ## Community
 
-Join the Absurd's [Discord channel](https://discord.gg/absurd) for further development discussions, chit-chat and more!
+Join the Absurd's [Discord channel](https://discord.gg/DUSUtguG2H) for further development discussions, chit-chat and more!
 
 ## /movies Folder
 
